@@ -1,0 +1,2 @@
+Status: 500
+Unable to locate file in Vite manifest: resources/js/Pages/Products/BulkManage.vue. (View: /home/woldemariam/EcommerceApp/resources/views/app.blade.php)
